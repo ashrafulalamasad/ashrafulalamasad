@@ -1,5 +1,3 @@
-
-
 <br> <br> <br> 
 
 <!DOCTYPE html>
@@ -47,7 +45,7 @@
 
 ***Thank you for taking the time to learn a little about me and my aspirations. I am excited to see where this exciting journey in Computer Science and Engineering takes me next.***
 
-<br> <br> 
+<br>
 
 # 👀 Profie Viewer
 <!DOCTYPE html>
@@ -59,7 +57,7 @@
 </body>
 </html>
 
-<br> <br> 
+<br>
 
 # 💻 My top programming languages and tools
 
