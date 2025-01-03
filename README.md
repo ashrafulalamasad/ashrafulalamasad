@@ -59,7 +59,7 @@
 
 <br>
 
-# 💻 My top programming languages and tools
+# 💻 My top programming languages skill
 
 <br> <br> 
 <p align="center">
@@ -75,14 +75,56 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/python.png" alt="Python" title="Python" width="100" height="100"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <br> <br> <br> 
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/kotlin.png" alt="Kotlin" title="Kotlin" width="100" height="100"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/java.png" alt="Java" title="Java" width="100" height="100"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/kotlin.png" alt="Kotlin" title="Kotlin" width="100" height="100"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/swift.png" alt="Swift" title="Swift" width="100" height="100"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/dart.png" alt="Dart" title="Dart" width="100" height="100"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/php.png" alt="php" title="php" width="100" height="100"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p> 
+
+<br> <br> <br> 
+
+
+# 💻 Top programming tools and frameworks I used
+
+<br> <br> 
+
+<p align="center">
   <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/Android%20Studio.png" alt="Android Studio" title="Android Studio" width="100" height="100"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/flutter.png" alt="Flutter" title="Flutter" width="100" height="100"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/swiftui.png" alt="Flutter" title="Flutter" width="100" height="100"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/git.png" alt="Flutter" title="Flutter" width="100" height="100"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/vs.jpg" alt="Flutter" title="Flutter" width="100" height="100"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/vscode.jpg" alt="Flutter" title="Flutter" width="100" height="100"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/pycharm.png" alt="Flutter" title="Flutter" width="100" height="100"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/django.png" alt="Flutter" title="Flutter" width="100" height="100"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/flask.png" alt="Flutter" title="Flutter" width="100" height="100"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/angular.png" alt="Flutter" title="Flutter" width="100" height="100"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/node.png" alt="Flutter" title="Flutter" width="100" height="100"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/react.png" alt="Flutter" title="Flutter" width="100" height="100"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/laravel.png" alt="Flutter" title="Flutter" width="100" height="100"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/mysql.png" alt="Flutter" title="Flutter" width="100" height="100"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/mongodb.png" alt="Flutter" title="Flutter" width="100" height="100"/>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <br> <br> 
