@@ -240,6 +240,9 @@
   <a href="https://instagram.com/ashrafulalam005"><img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/instalogo.png" 
   width="100" height="100" alt="Instagram" title="Instagram"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.threads.net/@ashrafulalam005"><img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/threads.jpg" 
+  width="100" height="100" alt="Threads" title="Threads"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/ashrafulalam005"><img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/LinkedIn_logo.png" 
   width="100" height="100" alt="Linkedin" title="Linkedin"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
