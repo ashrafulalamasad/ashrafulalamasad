@@ -30,7 +30,7 @@
 <body>
     <div>
         <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/myself.gif" 
-             alt="My GIF">
+             alt="My GIF" width="400" height="400">
     </div>
 </body>
 </html>
