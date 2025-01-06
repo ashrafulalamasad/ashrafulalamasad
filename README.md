@@ -55,7 +55,7 @@
 <html lang="en">
 <body>
     <br> 
-    <img src="https://komarev.com/ghpvc/?username=ashrafulalamasad&color=blue" alt="Profile Views Counter"  width="180" height="45">
+    <img src="https://komarev.com/ghpvc/?username=ashrafulalamasad&color=blue" alt="Profile Views Count"  width="180" height="45">
 </body>
 </html> 
 
