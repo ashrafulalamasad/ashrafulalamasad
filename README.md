@@ -7,7 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 </head>
 <body>
-    <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/bannergif.gif" alt="Banner GIF" width="793" height="198"> 
+    <div>
+        <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/bannergif.gif" alt="Banner GIF" width="793" height="198">
+    </div>
 </body>
 </html>
 
