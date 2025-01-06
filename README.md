@@ -110,7 +110,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/angular.png" alt="Angular" title="Angular" width="100" height="100"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/node.png" alt="Node.js" title="Node.js" width="100" height="100"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/nodepng.png" alt="Node.js" title="Node.js" width="100" height="80"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/react.png" alt="React Native" title="React Native" width="100" height="100"/>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
