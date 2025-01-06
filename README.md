@@ -79,11 +79,11 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/kotlin.png" alt="Kotlin" title="Kotlin" width="100" height="100"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/swift.png" alt="Swift" title="Swift" width="90" height="90"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/swift.png" alt="Swift" title="Swift" width="95" height="95"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/dart.png" alt="Dart" title="Dart" width="90" height="90"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/dart.png" alt="Dart" title="Dart" width="95" height="95"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/php.png" alt="php" title="php" width="90" height="90"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/php.png" alt="php" title="php" width="95" height="95"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p> 
 <br> 
