@@ -63,27 +63,27 @@
 
 <br> 
 <p align="center">
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/c.png" alt="C" title="C" width="100" height="100"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/c.png" alt="C" title="C" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/c%2B%2B.png" alt="C++" title="C++" width="100" height="100"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/c%2B%2B.png" alt="C++" title="C++" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/html.png" alt="HTML5" title="HTML5" width="100" height="100"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/html.png" alt="HTML5" title="HTML5" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/css.png" alt="CSS3" title="CSS3" width="100" height="100"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/css.png" alt="CSS3" title="CSS3" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/js.png" alt="JavaScript" title="JavaScript" width="100" height="100"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/js.png" alt="JavaScript" title="JavaScript" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/python.png" alt="Python" title="Python" width="100" height="100"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/python.png" alt="Python" title="Python" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/java.png" alt="Java" title="Java" width="100" height="100"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/java.png" alt="Java" title="Java" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/kotlin.png" alt="Kotlin" title="Kotlin" width="100" height="100"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/kotlin.png" alt="Kotlin" title="Kotlin" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/swift.png" alt="Swift" title="Swift" width="100" height="100"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/swift.png" alt="Swift" title="Swift" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/dart.png" alt="Dart" title="Dart" width="100" height="100"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/dart.png" alt="Dart" title="Dart" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/php.png" alt="php" title="php" width="100" height="100"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/php.png" alt="php" title="php" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p> 
 <br> 
