@@ -132,7 +132,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=ashrafulalamasad&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
 
 # 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashrafulalamasad&theme=chartreuse-dark&card_width=495&card_height=195)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashrafulalamasad&theme=chartreuse-dark&card_width=495&card_height=195)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 # 📚 Repos per Language
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashrafulalamasad&theme=chartreuse_dark)
