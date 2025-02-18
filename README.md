@@ -58,7 +58,7 @@
     <img src="https://komarev.com/ghpvc/?username=ashrafulalamasad&color=blue" alt="Profile Views Count"  width="180" height="45">
 </body>
 </html> 
-
+<!--
 # 💻 My top programming languages skill
 
 <br> 
@@ -124,6 +124,7 @@
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p> 
 <br> 
+-->
 
 # 👨‍💻 My Competitive Programming Hub
 
