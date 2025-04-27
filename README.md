@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <br> <br> 
 
 <!DOCTYPE html>
@@ -216,11 +215,12 @@
   <a href="https://www.threads.net/@ashrafulalam005"><img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/threads.jpg" 
   width="100" height="100" alt="Threads" title="Threads"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ashrafulalam005"><img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/LinkedIn_logo.png" 
+  <a href="https://linkedin.com/in/ashrafulalam005"><img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/linkedin.png" 
   width="100" height="100" alt="Linkedin" title="Linkedin"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://x.com/ashrafulalam005"><img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/xlogo.png" width="100" 
   height="100" alt="X Profile" title="X Profile"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://hikmah.net/@ashrafulalam005"><img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/hikmah.png" width="100" 
   height="100" alt="Hikmah" title="Hikmah"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
