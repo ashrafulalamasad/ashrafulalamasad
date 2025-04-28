@@ -126,25 +126,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashrafulalamasad&theme=chartreuse_dark)
 
 # 📊 Ashraful's GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ashrafulalamasad&show_icons=true&include_all_commits=true&theme=chartreuse-dark)
+![](https://github-readme-stats.vercel.app/api?username=ashrafulalamasad&hide=commits&theme=chartreuse-dark)
 
 # 🔥 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashrafulalamasad&theme=chartreuse-dark&card_width=495&card_height=195)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-# 📚 Repos per Language
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashrafulalamasad&theme=chartreuse_dark)
-
-# 📈 Most Commit Language
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashrafulalamasad&theme=chartreuse_dark)
-
-# 📊 Stats of current year
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashrafulalamasad&theme=chartreuse_dark)
-
-# ⏰ Productive Time
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashrafulalamasad&theme=chartreuse_dark)
-
-# ⏱️ Commits per Hour
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashrafulalamasad&theme=chartreuse_dark&utcOffset=6)
 
 # 🌟 Top Languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulalamasad&layout=compact&theme=chartreuse-dark)
