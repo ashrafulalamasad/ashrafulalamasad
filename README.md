@@ -47,9 +47,6 @@
   <a href="All%20Logo/My%20Resume.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Download%20Resume-PDF%20Available-FFB300?style=for-the-badge&logo=adobe-acrobat-reader"/>
   </a>
-  <a href="#contact" onclick="document.getElementById('contact').scrollIntoView({behavior: 'smooth'}); return false;">
-    <img src="https://img.shields.io/badge/Hire%20Me-Scroll%20to%20Contact-FF6B6B?style=for-the-badge&logo=telegram"/>
-  </a>
 </p>
 
 <p align="center">
@@ -77,7 +74,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3200&pause=600&color=F39C12&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Tracking+Progress+and+Achievements;Consistent+Growth+on+GitHub;Analytics+That+Matter!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=600&color=F39C12&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Tracking+Progress+and+Achievements;Consistent+Growth+on+GitHub;Analytics+That+Matter!"/>
 </p>
 
 ## 📊 GitHub Stats and Top Languages
@@ -90,7 +87,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=400&lines=Consistent+Contributions;Building+Every+Day;Code+Never+Sleeps!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=400&lines=Consistent+Contributions;Building+Every+Day;Code+Never+Sleeps!"/>
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashrafulalamasad&theme=chartreuse_dark)
@@ -112,7 +109,7 @@
 # 💻 Core Programming Languages
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=700&color=3498DB&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Code+is+my+second+language;Solving+problems+one+line+at+a+time;Turning+ideas+into+reality!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=3498DB&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Code+is+my+second+language;Solving+problems+one+line+at+a+time;Turning+ideas+into+reality!"/>
 </p>
 
 <div align="center">
@@ -137,7 +134,7 @@
 # 🎨 Frontend Technologies
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=5000&pause=2000&color=2ECC71&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Crafting+Beautiful+User+Interfaces+With+Thsese+Modern+Frontend+Technologies"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=5000&pause=2000&color=2ECC71&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Crafting+Beautiful+User+Interfaces+With+Thsese+Modern+Frontend+Technologies"/>
 </p>
 
 <div align="center">
@@ -164,7 +161,7 @@
 # ⚙️ Backend & Server Technologies
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=5000&pause=2000&color=E67E22&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Building+Reliable+Robust+Backends+With+These+Modern+Backend+Technologies"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=5000&pause=2000&color=E67E22&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Building+Reliable+Robust+Backends+With+These+Modern+Backend+Technologies"/>
 </p>
 
 <div align="center">
@@ -185,7 +182,7 @@
 # 🗄️ Database Technologies
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=00BFFF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Managing+and+Storing+Data+with+these+Modern+DBs"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=00BFFF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Managing+and+Storing+Data+with+these+Modern+DBs"/>
 </p>
 
 <div align="center">
@@ -208,7 +205,7 @@
 # 📱 Mobile app Development
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=FF69B4&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Building+Mobile+Experiences+with+these+Modern+Mobile+Technologies!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=FF69B4&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Building+Mobile+Experiences+with+these+Modern+Mobile+Technologies!"/>
 </p>
 
 <div align="center">
@@ -226,7 +223,7 @@
 # ☁️ Cloud & DevOps
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Deploying+with+Confidence;DevOps+for+Scalability+and+Reliability!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Deploying+with+Confidence;DevOps+for+Scalability+and+Reliability!"/>
 </p>
 
 <div align="center">
@@ -249,7 +246,7 @@
 # 🚀 Deployment & Hosting Platforms
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=32CD32&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Fast+%26+Reliable+Deployment+with+these+Modern+Deployment+Platforms!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=32CD32&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Fast+%26+Reliable+Deployment+with+these+Modern+Deployment+Platforms!"/>
 </p>
 
 <div align="center">
@@ -266,7 +263,7 @@
 # 🛠️ Development Environment & Tools
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Tools+are+my+superpower;Automating+the+boring+stuff;Building+with+creativity+and+precision!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Tools+are+my+superpower;Automating+the+boring+stuff;Building+with+creativity+and+precision!"/>
 </p>
 
 <div align="center">
@@ -293,7 +290,7 @@
 # 👨‍💻🏆 Competitive Programming Platforms
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=FF4500&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Sharpening+Problem+Solving;Codeforces+%7C+LeetCode+%7C+BeeCrowd+%7C+CodeChef+%7C+HackerRank+%7C+AtCoder;Competitive+Programming+Journey!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=FF4500&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Sharpening+Problem+Solving;Codeforces+%7C+LeetCode+%7C+BeeCrowd+%7C+CodeChef+%7C+HackerRank+%7C+AtCoder;Competitive+Programming+Journey!"/>
 </p>
 
 <div align="center">
@@ -389,59 +386,59 @@
 # 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3200&pause=1000&color=00CED1&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Let's+Connect+%26+Collaborate;Here+Is+My+Social+Media+%26+Contact+Links!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=1000&color=00CED1&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Let's+Connect+%26+Collaborate;Here+Is+My+Social+Media+%26+Contact+Links!"/>
 </p>
 
 <br> 
 <div align="center">
   <a href="https://ashrafulalam.me/">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/web2.png" 
-    width="60" height="60" alt="Portfolio Website" title="Visit My Portfolio">
+    width="60" height="60" target="_blank" alt="Portfolio Website" title="Visit My Portfolio">
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/ashrafulalam005">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/linkedin.png" 
-    width="60" height="60" alt="LinkedIn" title="Connect on LinkedIn">
+    width="60" height="60" target="_blank" alt="LinkedIn" title="Connect on LinkedIn">
   </a>
   &nbsp;
   <a href="mailto:ashrafulalamyt@gmail.com">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/mail.png" 
-    width="60" height="60" alt="Email" title="Send Email">
+    width="60" height="60" target="_blank" alt="Email" title="Send Email">
   </a>
   &nbsp;
   <a href="https://www.facebook.com/ashrafulalam005">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/facebook.png" 
-    width="60" height="60" alt="Facebook" title="Follow on Facebook Profile">
+    width="60" height="60" target="_blank" alt="Facebook" title="Follow on Facebook Profile">
   </a>
   &nbsp;
   <a href="https://instagram.com/ashrafulalam005">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/instagram.png" 
-    width="60" height="60" alt="Instagram" title="Follow on Instagram">
+    width="60" height="60" target="_blank" alt="Instagram" title="Follow on Instagram">
   </a>
   &nbsp;
   <a href="https://x.com/ashrafulalam005">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/x.png" 
-    width="60" height="60" alt="X (Twitter)" title="Follow on X">
+    width="60" height="60" target="_blank" alt="X (Twitter)" title="Follow on X">
   </a>
   &nbsp;
   <a href="https://www.threads.net/@ashrafulalam005">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/threads.png" 
-    width="60" height="60" alt="Threads" title="Follow on Threads">
+    width="60" height="60" target="_blank" alt="Threads" title="Follow on Threads">
   </a>
   &nbsp;
   <a href="https://t.me/ashrafulalam005">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/telegram.png" 
-    width="60" height="60" alt="Telegram" title="Message on Telegram">
+    width="60" height="60" target="_blank" alt="Telegram" title="Message on Telegram">
   </a>
   &nbsp;
   <a href="https://hikmah.net/@ashrafulalam005">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/hikmah.png" 
-    width="60" height="60" alt="Hikmah" title="Follow on Hikmah">
+    width="60" height="60" target="_blank" alt="Hikmah" title="Follow on Hikmah">
   </a>
   &nbsp;
   <a href="https://youtube.com/@ashrafulalam005">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/youtube.png" 
-    width="60" height="60" alt="YouTube" title="Subscribe on YouTube">
+    width="60" height="60" target="_blank" alt="YouTube" title="Subscribe on YouTube">
   </a>
 </div>
 
@@ -489,7 +486,7 @@ Strong communication skills and experience working in collaborative environments
 # 💡 Fun Facts & Interests
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3200&pause=2000&color=8E44AD&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Tech+is+Life%2C+but+Life+is+More+Than+Tech!;So+Beyond+Coding+I+Love+To+Do+Things+Like%3A+Photography%2C+Gaming%2C+Adventure;GYM%2C+Learning+New+Technologies%2C+Community+Building;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=2000&color=8E44AD&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Tech+is+Life%2C+but+Life+is+More+Than+Tech!;So+Beyond+Coding+I+Love+To+Do+Things+Like%3A+Photography%2C+Gaming%2C+Adventure;GYM%2C+Learning+New+Technologies%2C+Community+Building;"/>
 </p>
 
 <div align="center">
