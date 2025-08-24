@@ -26,7 +26,7 @@
 <p align="center">
   <strong>
     🎓 Computer Science & Engineering, IIUC <br>
-    💼 Passionate Full-Stack Developer with Modern Tech Stack <br>
+    💼 Full-Stack Developer with Modern Tech Stack <br>
     🏆 Competitive Programming Enthusiast <br>
     💡 Always Learning, Always Building
   </strong>
