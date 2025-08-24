@@ -44,7 +44,7 @@
   <a href="https://linkedin.com/in/ashrafulalam005" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="All%20Logo/My%20Resume.pdf" download>
+  <a href="All%20Logo/My%20Resume.pdf" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Download%20Resume-PDF%20Available-FFB300?style=for-the-badge&logo=adobe-acrobat-reader"/>
   </a>
   <a href="#contact" onclick="document.getElementById('contact').scrollIntoView({behavior: 'smooth'}); return false;">
