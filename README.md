@@ -109,7 +109,7 @@
 # 💻 Core Programming Languages
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=3498DB&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Code+is+my+second+language;Solving+problems+one+line+at+a+time;Turning+ideas+into+reality!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=3498DB&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Code+is+my+second+language;Solving+problems+one+line+at+a+time;Turning+ideas+into+reality!"/>
 </p>
 
 <div align="center">
@@ -134,7 +134,7 @@
 # 🎨 Frontend Technologies
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=5000&pause=2000&color=2ECC71&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Crafting+Beautiful+User+Interfaces+With+Thsese+Modern+Frontend+Technologies"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=2ECC71&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Crafting+beautiful+user+interfaces;Modern+frontend+for+modern+apps;Design+meets+function!"/>
 </p>
 
 <div align="center">
@@ -161,7 +161,7 @@
 # ⚙️ Backend & Server Technologies
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=5000&pause=2000&color=E67E22&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Building+Reliable+Robust+Backends+With+These+Modern+Backend+Technologies"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=E67E22&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+robust+backends;APIs+that+power+the+future;Server+side+excellence!"/>
 </p>
 
 <div align="center">
@@ -182,7 +182,7 @@
 # 🗄️ Database Technologies
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=00BFFF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Managing+and+Storing+Data+with+these+Modern+DBs"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=00BFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Managing+and+storing+data;Databases+for+every+need;Reliable+data+solutions!"/>
 </p>
 
 <div align="center">
@@ -205,7 +205,7 @@
 # 📱 Mobile app Development
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=FF69B4&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Building+Mobile+Experiences+with+these+Modern+Mobile+Technologies!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=FF69B4&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+mobile+experiences;Apps+in+your+pocket;Mobile+innovation!"/>
 </p>
 
 <div align="center">
@@ -223,7 +223,7 @@
 # ☁️ Cloud & DevOps
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Deploying+with+Confidence;DevOps+for+Scalability+and+Reliability!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=FFD700&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Deploying+with+confidence;DevOps+for+scalability;Cloud+powered+solutions!"/>
 </p>
 
 <div align="center">
@@ -246,7 +246,7 @@
 # 🚀 Deployment & Hosting Platforms
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=32CD32&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Fast+%26+Reliable+Deployment+with+these+Modern+Deployment+Platforms!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=32CD32&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Fast+and+reliable+deployment;Hosting+for+the+modern+web;Your+apps+online!"/>
 </p>
 
 <div align="center">
@@ -263,7 +263,7 @@
 # 🛠️ Development Environment & Tools
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Tools+are+my+superpower;Automating+the+boring+stuff;Building+with+creativity+and+precision!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=8A2BE2&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Tools+are+my+superpower;Automating+the+boring+stuff;Building+with+creativity!"/>
 </p>
 
 <div align="center">
@@ -290,7 +290,7 @@
 # 👨‍💻🏆 Competitive Programming Platforms
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=2000&color=FF4500&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Sharpening+Problem+Solving;Codeforces+%7C+LeetCode+%7C+BeeCrowd+%7C+CodeChef+%7C+HackerRank+%7C+AtCoder;Competitive+Programming+Journey!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=FF4500&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Sharpening+problem+solving;Compete+to+learn+and+grow;Code+for+the+challenge!"/>
 </p>
 
 <div align="center">
@@ -486,7 +486,7 @@ Strong communication skills and experience working in collaborative environments
 # 💡 Fun Facts & Interests
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=2000&color=8E44AD&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Tech+is+Life%2C+but+Life+is+More+Than+Tech!;So+Beyond+Coding+I+Love+To+Do+Things+Like%3A+Photography%2C+Gaming%2C+Adventure;GYM%2C+Learning+New+Technologies%2C+Community+Building;"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=8E44AD&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Tech+is+life%2C+but+life+is+more+than+tech!;Beyond+coding%3A+photography%2C+gaming%2C+adventure;Learning+and+community!"/>
 </p>
 
 <div align="center">
