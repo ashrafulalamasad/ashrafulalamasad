@@ -1,4 +1,4 @@
-<br> <br> 
+<br> <br>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -13,213 +13,529 @@
 </body>
 </html>
 
-<br> <br> 
+<br> <br>
 
 # <div align="center">🚀 Ashraful Alam 🧑‍💻 </div>
-## <div align="center">🧠 Problem Solver | ⚙️ Efficient Coder | 💻 Creative Developer </div>
 
-<br> <br> 
+## <div align="center">💻 Full-Stack Developer | 🏆 Competitive Programmer | 🌟 Tech Innovator </div>
 
-# 🥷 Hey there, I'm Ashraful Alam
-<br> <br> 
+<br> <br>
 
+# 🚀 About Me
 
-***My name is Ashraful Alam, and I reside in the vibrant city Chittagong, located in the beautiful country Bangladesh. Currently, I am pursuing a higher education journey as a university student with a profound enthusiasm for the world of Computer Science and Engineering. At the esteemed International Islamic University Chittagong, I am dedicatedly engaged in advancing my knowledge and skills within this captivating field. Undoubtedly, my passion for Computer Science and Engineering knows no bounds. With each passing day, my fascination for the intricacies of technology and its boundless applications grows stronger. As a student at the International Islamic University Chittagong, I am fortunate to be immersed in an environment that nurtures both my academic and personal growth.***  
+<p align="center">
+  <strong>
+    🎓 Computer Science & Engineering, IIUC <br>
+    💼 Passionate Full-Stack Developer with Modern Tech Stack <br>
+    🏆 Competitive Programming Enthusiast <br>
+    💡 Always Learning, Always Building
+  </strong>
+</p>
 
-***I find immense joy and satisfaction in delving into the realms of coding, problem-solving, and innovation. The ever-evolving nature of the field ignites my curiosity and propels me to stay updated with the latest trends and breakthroughs. Through dedicated study and hands-on experience, I am equipping myself to contribute meaningfully to the ever-expanding digital landscape.***  
-***In addition to my academic pursuits, I relish the diverse experiences that university life offers. Engaging with fellow students, participating in workshops, and collaborating on projects not only enriches my learning but also enables me to forge meaningful connections with like-minded individuals who share my passion.***  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=500&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🌟+Welcome+to+Ashraful's+Tech+Universe+🌟;🚀+Building+Tomorrow's+Solutions+Today+🚀;💡+Innovation+%7C+Dedication+%7C+Excellence+💡"/>
+</p>
 
-***Ultimately, my journey in Computer Science and Engineering is not just about acquiring a degree; it's about embracing a lifelong adventure driven by my unwavering passion. With a firm foundation from the International Islamic University Chittagong, I aspire to play a significant role in shaping the technological landscape and making a positive impact on the world.***  
+<!-- Awesome Functional Buttons -->
+<p align="center">
+  <a href="https://ashrafulalam.me/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-00D4AA?style=for-the-badge&logo=internet-explorer"/>
+  </a>
+  <a href="https://linkedin.com/in/ashrafulalam005" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://ashrafulalam.me/resume.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF%20Available-FFB300?style=for-the-badge&logo=adobe-acrobat-reader"/>
+  </a>
+  <a href="#contact" onclick="document.getElementById('contact').scrollIntoView({behavior: 'smooth'}); return false;">
+    <img src="https://img.shields.io/badge/Hire%20Me-Scroll%20to%20Contact-FF6B6B?style=for-the-badge&logo=telegram"/>
+  </a>
+</p>
 
-***Thank you for taking the time to learn a little about me and my aspirations. I am excited to see where this exciting journey in Computer Science and Engineering takes me next.***
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10"/>
+</p>
+
+**_Welcome to my digital portfolio! I'm Ashraful Alam, a dedicated Computer Science and Engineering student at the International Islamic University Chittagong with an insatiable passion for technology and innovation. My journey in the tech world spans across multiple domains - from competitive programming and algorithm optimization to full-stack web development and mobile application creation._**
+
+**_What sets me apart is my commitment to continuous learning and practical application. I don't just study technology; I live and breathe it. Whether it's solving complex algorithmic challenges on competitive programming platforms, building scalable web applications with modern frameworks, or diving deep into cloud technologies and DevOps practices, I approach every challenge with enthusiasm and determination._**
+
+**_My academic foundation at IIUC, combined with hands-on project experience and active participation in the tech community, has equipped me with both theoretical knowledge and practical skills. I believe in the power of technology to solve real-world problems and am committed to making meaningful contributions to the digital landscape._**
 
 <br>
 
-# 👀 Profie Viewer
-<!DOCTYPE html>
-<html lang="en">
-<body>
-    <br> 
-    <img src="https://komarev.com/ghpvc/?username=ashrafulalamasad&color=blue" alt="Profile Views Count"  width="180" height="45">
-</body>
-</html> 
+# 👀 Profile Visitor
 
-<br> <br> 
-
-# 💻 My top programming languages skill
-
-<br> 
 <p align="center">
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/c.png" alt="C" title="C" width="75" height="75"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/c%2B%2B.png" alt="C++" title="C++" width="75" height="75"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/html.png" alt="HTML5" title="HTML5" width="75" height="75"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/css.png" alt="CSS3" title="CSS3" width="75" height="75"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/js.png" alt="JavaScript" title="JavaScript" width="75" height="75"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/python.png" alt="Python" title="Python" width="75" height="75"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/java.png" alt="Java" title="Java" width="75" height="75"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/kotlin.png" alt="Kotlin" title="Kotlin" width="75" height="75"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p> 
-<br> 
+  <img src="https://komarev.com/ghpvc/?username=ashrafulalamasad&color=blue" alt="Profile Views Count" width="200" height="50">
+</p>
 
-# 🛠️ Top programming tools and frameworks I used
+<br>
 
-<br> 
+# 🥇 GitHub Analytics & Performance
+
+<div align="center">
+
 <p align="center">
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/Android%20Studio.png" alt="Android Studio" title="Android Studio" width="75" height="75"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/git.png" alt="Git" title="Git" width="75" height="75"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/vs.jpg" alt="Visual Studio" title="Visual Studio" width="75" height="75"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/vscode.jpg" alt="VS Code" title="VS Code" width="75" height="75"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/pycharm.png" alt="Pycharm" title="Pycharm" width="75" height="75"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/intellijidea.png" alt="Intellij IDEA" title="Intellij IDEA" width="75" height="75"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/nodepng.png" alt="Node.js" title="Node.js" width="75" height="75"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/react.png" alt="React" title="React" width="75" height="75"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/mysql.png" alt="MySQL" title="MySQL" width="75" height="75"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/mongodb.png" alt="mongoDB" title="mongoDB" width="75" height="75"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p> 
-<br> 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3200&pause=600&color=F39C12&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Tracking+Progress+and+Achievements;Consistent+Growth+on+GitHub;Analytics+That+Matter!"/>
+</p>
 
+## 📊 GitHub Stats and Top Languages
 
-# 👨‍💻 My Competitive Programming Hub
-
-<br> 
-<div style="text-align: center;">
-  <a href="https://judge.beecrowd.com/en/profile/1071784"><img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/beecrowd.png" 
-  width="100" height="100" alt="BeeCrowd" title="BeeCrowd"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/ashrafulalamasad"><img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/codeforces.png" 
-  width="100" height="100" alt="CodeForces" title="CodeForces"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/ashrafulalam005/"><img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/leetcode.png" 
-  width="100" height="100" alt="LeetCode" title="LeetCode"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/ashrafulalamyt"><img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/codechef.png" 
-  width="100" height="100" alt="CodeChef" title="CodeChef"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/ashrafulalam005"><img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/hackerranklogo.png" 
-  width="100" height="100" alt="HackerRank" title="HackerRank"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://atcoder.jp/users/ashrafulalam005"><img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/atcoder.png" 
-  width="100" height="100" alt="AtCoder" title="AtCoder"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ashrafulalamasad&theme=chartreuse-dark" alt="GitHub Stats" height="200" width="500"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulalamasad&layout=compact&theme=chartreuse-dark" alt="Top Languages" height="200" width="500"/>
 </div>
-<br> 
 
-# ↗️ Profile Details with Contributions Graph
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=400&lines=Consistent+Contributions;Building+Every+Day;Code+Never+Sleeps!"/>
+</p>
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashrafulalamasad&theme=chartreuse_dark)
 
-# 📊 Ashraful's GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ashrafulalamasad&hide=commits&theme=chartreuse-dark)
+## 🔥 Streak Statistics
 
-# 🔥 GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashrafulalamasad&theme=chartreuse-dark&card_width=495&card_height=195)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-# 🌟 Top Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashrafulalamasad&layout=compact&theme=chartreuse-dark)
+## ⚡ Activity Graph
 
-# 🏆 Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashrafulalamasad&theme=juicyfresh)
+[![Ashraful's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ashrafulalamasad&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<br> <br> 
+## 🏆 GitHub Trophies
 
-# 🎓 Education
+![trophy](https://github-trophies.vercel.app/?username=ashrafulalamasad&theme=radical&title=Stars,Followers,Commits,Issues,PullRequest,Repositories,Contributions,MultiLanguage,Reviews,Organizations&column=9&row=1)
 
-## University
-<br> 
-<p align="center">
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/iiuc.jpg" alt="University Logo" width="300" height="300">
-</p> 
-
-***- Institution Name: "International Islamic University Chittagong (IIUC)"***  
-***- Degree: B. Sc. in Computer Science and Engineering (CSE)***  
-***- Field: Bachelor's of Engineering***  
-***- Time: Jul 2023 - Jul 2027 (expected)***  
-***- Batch: IIUC CSE-56th Batch*** <br> <br> 
-***Islamic University Chittagong (IUC) was founded in 1995 by Islamic University Chittagong Trust (IUCT), a non-profit organization. In 2000, IUC was upgraded to International Islamic University Chittagong (IIUC). In 2004 IIUC was recognized as one of the 9 top-graded (A Category) Private Universities by a Government-appointed High Powered Team led by the UGC Chairman. At present, it is the largest private university. A good number of full-time teachers and students are studying abroad for pursuing higher studies with IIUC's scholarship or financial assistance or continuation of services. <br><br>   I am studying a bachelor's program : Computer Science and Engineering (CSE) in this university.*** <br> <br> 
-
-## Intermediate College
-<br> <br> 
-<p align="center">
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/ggc.jpg" width="250" height="250">
-</p> 
-<br> 
-
-***- Institution Name: "Gachbaria Government College"***  
-***- Field: Science***  
-***- Time: 2020 - 2022***  
-***- Batch: HSC 2022 Batch***   <br> <br> 
-***Gachabaria Government College was established on July 1, 1969 in Gachbaria area of ​​Chandnaish Upazila in South Chittagong. On March 1, 1980, the college made its debut as a government college. Later in 1995, Gachbaria Government College emerged in a new glory in an aesthetic environment surrounded by greenery with faculty-based buildings, administrative buildings, two-storied library buildings and spacious grounds on its own land. Currently this college is well known as a reputed government college in Greater South Chittagong. <br><br>  I attended there to complete my Higher Secondary Certificate (HSC) examination.*** <br> <br> 
-## High School
-
-<br> 
-<p align="center">
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/pmhs.jpg" width="250" height="300">
-</p> 
-<br> 
-
-***- Institution Name: "Patiya Adarsha High School"***  
-***- Field: Science***  
-***- Time: 2015 - 2020***  
-***- Batch: SSC 2020 Batch***   <br> <br> 
-***Patiya Adarsha High School , it's not just a name. It's one of the best parts of my life. I attended there to complete my Secondary School Certificate (SSC) examination. It is one of the oldest school in Bangladesh. It was established in 1845 as an English Medium School. The school was affiliated with Calcutta University in 1867. Now it is affiliated under Board of Intermediary and Secondary Education, Chittagong, Bangladesh. <br> <br> I attended there to complete my Secondary School Cirtificate (SSC) examination.*** <br> <br> 
-
-
-# 📲 Let's Connect
-
-<br> 
-<div style="text-align: center;">
-  <a href="https://ashrafulalam.me/"><img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/weblogo.jpg" 
-  width="100" height="100" alt="Website" title="Website"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/ashrafulalam005"><img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/fblogo.png" 
-  width="100" height="100" alt="Facebook Profile" title="Facebook Profile"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/ashrafulalamofficials"><img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/fblogo.png" 
-  width="100" height="100" alt="Facebook Page" title="Facebook Page"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/ashrafulalam005"><img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/instalogo.png" 
-  width="100" height="100" alt="Instagram" title="Instagram"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.threads.net/@ashrafulalam005"><img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/threads.jpg" 
-  width="100" height="100" alt="Threads" title="Threads"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ashrafulalam005"><img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/linkedin.png" 
-  width="100" height="100" alt="Linkedin" title="Linkedin"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/ashrafulalam005"><img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/xlogo.png" width="100" 
-  height="100" alt="X Profile" title="X Profile"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://hikmah.net/@ashrafulalam005"><img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/hikmah.png" width="100" 
-  height="100" alt="Hikmah" title="Hikmah"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:ashrafulalamyt@gmail.com"><img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/maillogo.png" 
-  width="100" height="100" alt="Gmail me" title="Gmail me"></a>
 </div>
 
+
+# 💻 Core Programming Languages
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=700&color=3498DB&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Code+is+my+second+language;Solving+problems+one+line+at+a+time;Turning+ideas+into+reality!"/>
+</p>
+
+<div align="center">
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/c.png" alt="C" title="C Programming" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/c%2B%2B.png" alt="C++" title="C++" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/java.png" alt="Java" title="Java" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/python.png" alt="Python" title="Python" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/js.png" alt="JavaScript" title="JavaScript" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/ts.png" alt="TypeScript" title="TypeScript" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/kotlin.png" alt="Kotlin" title="Kotlin" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/php.png" alt="PHP" title="PHP" width="60" height="60"/>
+</div>
+<br>
+
+# 🎨 Frontend Technologies
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=5000&pause=2000&color=2ECC71&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Crafting+Beautiful+User+Interfaces+With+Thsese+Modern+Frontend+Technologies"/>
+</p>
+
+<div align="center">
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/html5.png" alt="HTML5" title="HTML5" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/css3.png" alt="CSS3" title="CSS3" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/react.png" alt="React" title="React" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/nextJs.png" alt="Next.js" title="Next.js" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/vite.png" alt="Vite" title="Vite" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/bootstrap.png" alt="Bootstrap" title="Bootstrap" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/tailwind.png" alt="Tailwind CSS" title="Tailwind CSS" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/materialUI.png" alt="Material-UI" title="Material-UI" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/webpack.png" alt="Webpack" title="Webpack" width="60" height="60"/>
+</div>
+<br>
+
+# ⚙️ Backend & Server Technologies
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=5000&pause=2000&color=E67E22&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Building+Reliable+Robust+Backends+With+These+Modern+Backend+Technologies"/>
+</p>
+
+<div align="center">
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/nodeJs2.png" alt="Node.js" title="Node.js" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/expressJs2.png" alt="Express.js" title="Express.js" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/laravel.png" alt="Laravel" title="Laravel" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/graphQL.png" alt="GraphQL" title="GraphQL" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/socket2.png" alt="Socket.io" title="Socket.io" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/npm.png" alt="NPM" title="NPM" width="60" height="60"/>
+</div>
+<br>
+
+# 🗄️ Database Technologies
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=00BFFF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Managing+and+Storing+Data+with+these+Modern+DBs"/>
+</p>
+
+<div align="center">
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/mongodb2.png" alt="MongoDB" title="MongoDB" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/mysql.png" alt="MySQL" title="MySQL" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/postgresql.png" alt="PostgreSQL" title="PostgreSQL" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/sqlite.png" alt="SQLite" title="SQLite" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/oracle.png" alt="Oracle" title="Oracle Database" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/mongoose.png" alt="Mongoose" title="Mongoose ODM" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/prisma.png" alt="Prisma" title="Prisma ORM" width="60" height="60"/>
+</div>
+<br>
+
+# 📱 Mobile app Development
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=FF69B4&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Building+Mobile+Experiences+with+these+Modern+Mobile+Technologies!"/>
+</p>
+
+<div align="center">
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/reactNative2.png" alt="React Native" title="React Native" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/flutter.png" alt="Flutter" title="Flutter" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/expo2.png" alt="Expo" title="Expo" width="60" height="60"/>
+  &nbsp;
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/android.png" alt="Android" title="Android" width="60" height="60"/>
+</div>
+<br>
+
+# ☁️ Cloud & DevOps
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Deploying+with+Confidence;DevOps+for+Scalability+and+Reliability!"/>
+</p>
+
+<div align="center">
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/aws2.png" alt="AWS" title="Amazon Web Services" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/azure.png" alt="Azure" title="Microsoft Azure" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/googlecloud.png" alt="Google Cloud" title="Google Cloud Platform" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/docker.png" alt="Docker" title="Docker" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/kubernetes.png" alt="Kubernetes" title="Kubernetes" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/firebase.png" alt="Firebase" title="Firebase" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/supabase.png" alt="Supabase" title="Supabase" width="60" height="60"/>
+</div>
+<br>
+
+# 🚀 Deployment & Hosting Platforms
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=32CD32&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Fast+%26+Reliable+Deployment+with+these+Modern+Deployment+Platforms!"/>
+</p>
+
+<div align="center">
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/vercel2.png" alt="Vercel" title="Vercel" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/netlify.png" alt="Netlify" title="Netlify" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/railway2.png" alt="Railway" title="Railway" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/render2.png" alt="Render" title="Render" width="60" height="60"/>
+</div>
+<br>
+
+# 🛠️ Development Environment & Tools
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=8A2BE2&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Tools+are+my+superpower;Automating+the+boring+stuff;Building+with+creativity+and+precision!"/>
+</p>
+
+<div align="center">
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/vsCode.png" alt="VS Code" title="Visual Studio Code" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/vs.png" alt="Visual Studio" title="Visual Studio" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/intellijidea.png" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/pycharm.png" alt="PyCharm" title="PyCharm" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/aStudio.png" alt="Android Studio" title="Android Studio" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/git.png" alt="Git" title="Git Version Control" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/github2.png" alt="GitHub" title="GitHub" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/copilot2.png" alt="GitHub Copilot" title="GitHub Copilot AI" width="60" height="60"/>
+  &nbsp;
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/figma.png" alt="Figma" title="Figma Design Tool" width="60" height="60"/>
+</div>
+<br>
+
+# 👨‍💻🏆 Competitive Programming Platforms
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=4000&pause=2000&color=FF4500&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Sharpening+Problem+Solving;Codeforces+%7C+LeetCode+%7C+BeeCrowd+%7C+CodeChef+%7C+HackerRank+%7C+AtCoder;Competitive+Programming+Journey!"/>
+</p>
+
+<div align="center">
+  <a href="https://judge.beecrowd.com/en/profile/1071784">
+    <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/cp/beecrowd.png" 
+    width="60" height="60" alt="BeeCrowd" title="BeeCrowd Profile">
+  </a>
+  &nbsp;
+  <a href="https://codeforces.com/profile/ashrafulalamasad">
+    <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/cp/codeforces.png" 
+    width="60" height="60" alt="CodeForces" title="CodeForces Profile">
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/ashrafulalam005/">
+    <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/cp/leetcode.png" 
+    width="60" height="60" alt="LeetCode" title="LeetCode Profile">
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/ashrafulalamyt">
+    <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/cp/codechef.png" 
+    width="60" height="60" alt="CodeChef" title="CodeChef Profile">
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/ashrafulalam005">
+    <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/cp/hackerrank.png" 
+    width="60" height="60" alt="HackerRank" title="HackerRank Profile">
+  </a>
+  &nbsp;
+  <a href="https://atcoder.jp/users/ashrafulalam005">
+    <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/cp/atcoder2.png" 
+    width="60" height="60" alt="AtCoder" title="AtCoder Profile">
+  </a>
+</div>
+<br>
+
+<br>
+
+# 🎓 Academic Journey
+
+## 🏛️ University Education
+
 <br> 
+<p align="center">
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/education/iiuc2.png" alt="IIUC Logo" width="300" height="300">
+</p>
 
-# 💡 Fun Facts About Me
+### 🎯 Current Studies
+
+- **Institution:** International Islamic University Chittagong (IIUC)
+- **Degree:** Bachelor of Science in Computer Science and Engineering
+- **Duration:** July 2023 - June 2027
+- **Batch:** IIUC CSE-56th Batch
+- **Status:** Top-graded (A Category) Private University
+
+**About IIUC:** Founded in 1995 and upgraded to international status in 2000, IIUC is recognized as one of Bangladesh's premier private universities. With a commitment to excellence in education and research, the university provides a nurturing environment for academic and personal growth. The CSE program at IIUC combines theoretical foundations with practical applications, preparing students for the evolving tech industry.
+
+<br>
+
+## 🏫 Pre-University Education
+
+### 📚 Higher Secondary Education
+
 <br> 
+<p align="center">
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/education/ggc2.png" width="250" height="250">
+</p>
 
-***- 📸 Photography serves as my creative outlet, allowing me to document memorable experiences and express myself beyond lines of code.***  
-***- 🎮 Gaming is my ultimate escape, providing me with endless entertainment and challenges to unwind after long coding sessions.***  
-***- 🏞️ On weekends, I trade my keyboard for hiking boots, exploring nature's wonders to feed my adventurous spirit.***  
-***- 💪 I'm also a regular gym-goer, pushing myself to new limits and achieving personal fitness goals to maintain a healthy body.***
+- **Institution:** Gachbaria Government College
+- **Field:** Science
+- **Duration:** 2020 - 2022
+- **Examination:** HSC 2022
 
+**Institution Highlights:** Established in 1969 and nationalized in 1980, Gachbaria Government College stands as a prestigious institution in Greater South Chittagong. The college's commitment to academic excellence and its modern infrastructure provided an ideal environment for my higher secondary education in the science stream.
+
+<br>
+
+### 🎒 Secondary Education
+
+<br> 
+<p align="center">
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/education/pmhs2.png" width="250" height="300">
+</p>
+
+- **Institution:** Patiya Adarsha High School
+- **Field:** Science
+- **Duration:** 2015 - 2020
+- **Examination:** SSC 2020
+
+**Historical Significance:** Founded in 1845 as an English Medium School and affiliated with Calcutta University in 1867, Patiya Adarsha High School is one of Bangladesh's oldest educational institutions. This historic school, now affiliated with the Board of Intermediate and Secondary Education, Chittagong, provided the foundational education that shaped my academic journey.
+
+<br>
+
+# 🌐 Connect With Me
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3200&pause=1000&color=00CED1&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Let's+Connect+%26+Collaborate;Here+Is+My+Social+Media+%26+Contact+Links!"/>
+</p>
+
+<br> 
+<div align="center">
+  <a href="https://ashrafulalam.me/">
+    <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/web2.png" 
+    width="60" height="60" alt="Portfolio Website" title="Visit My Portfolio">
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ashrafulalam005">
+    <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/linkedin.png" 
+    width="60" height="60" alt="LinkedIn" title="Connect on LinkedIn">
+  </a>
+  &nbsp;
+  <a href="mailto:ashrafulalamyt@gmail.com">
+    <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/mail.png" 
+    width="60" height="60" alt="Email" title="Send Email">
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/ashrafulalam005">
+    <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/facebook.png" 
+    width="60" height="60" alt="Facebook" title="Follow on Facebook Profile">
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/ashrafulalam005">
+    <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/instagram.png" 
+    width="60" height="60" alt="Instagram" title="Follow on Instagram">
+  </a>
+  &nbsp;
+  <a href="https://x.com/ashrafulalam005">
+    <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/x.png" 
+    width="60" height="60" alt="X (Twitter)" title="Follow on X">
+  </a>
+  &nbsp;
+  <a href="https://www.threads.net/@ashrafulalam005">
+    <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/threads.png" 
+    width="60" height="60" alt="Threads" title="Follow on Threads">
+  </a>
+  &nbsp;
+  <a href="https://t.me/ashrafulalam005">
+    <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/telegram.png" 
+    width="60" height="60" alt="Telegram" title="Message on Telegram">
+  </a>
+  &nbsp;
+  <a href="https://hikmah.net/@ashrafulalam005">
+    <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/hikmah.png" 
+    width="60" height="60" alt="Hikmah" title="Follow on Hikmah">
+  </a>
+  &nbsp;
+  <a href="https://youtube.com/@ashrafulalam005">
+    <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/youtube.png" 
+    width="60" height="60" alt="YouTube" title="Subscribe on YouTube">
+  </a>
+</div>
+
+<br>
+
+# 💼 Professional Summary
+
+<div align="center">
+  
+## 🎯 What I Bring to the Table
+
+**🚀 Full-Stack Development Expertise**  
+Proficient in modern web technologies including React, Next.js, Express.js, Node.js, and cloud deployment platforms
+
+**📱 Mobile Development Skills**  
+Experience with React Native, Flutter, and Android development using Java/Kotlin
+
+**🏆 Problem-Solving Mindset**  
+Active competitive programmer with strong algorithmic thinking and optimization skills
+
+**☁️ Cloud & DevOps Knowledge**  
+Familiar with AWS, Azure, Docker, Kubernetes, and modern deployment strategies
+
+**📈 Continuous Learning**  
+Always staying updated with the latest technologies and industry best practices
+
+**🤝 Team Collaboration**  
+Strong communication skills and experience working in collaborative environments
+
+</div>
+
+<br>
+
+# 🌟 Current Focus & Goals
+
+- 🔭 Currently working on **Full-Stack Web Applications** using modern JavaScript frameworks
+- 🌱 Learning **Advanced Cloud Architecture** and **Microservices Design Patterns**
+- 👯 Looking to collaborate on **Open Source Projects** and **Innovative Tech Solutions**
+- 🤔 Seeking opportunities for **Software Engineering Internships** and **Junior Developer Roles**
+- 💬 Ask me about **Web Development**, **Competitive Programming**, or **Mobile App Development**
+- ⚡ Fun fact: I solve algorithmic problems for fun and love exploring new technologies!
+
+<br>
+
+# 💡 Fun Facts & Interests
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3200&pause=2000&color=8E44AD&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Tech+is+Life%2C+but+Life+is+More+Than+Tech!;So+Beyond+Coding+I+Love+To+Do+Things+Like%3A+Photography%2C+Gaming%2C+Adventure;GYM%2C+Learning+New+Technologies%2C+Community+Building;"/>
+</p>
+
+<div align="center">
+
+## 🎯 Beyond Coding
+
+**📸 Photography Enthusiast**  
+_Capturing moments and telling stories through the lens - my creative outlet beyond code_
+
+**🎮 Gaming Aficionado**  
+_Strategic thinking through gaming - enhancing problem-solving skills while having fun_
+
+**🏞️ Adventure Seeker**  
+_Weekend hiker exploring nature's beauty - finding inspiration in the great outdoors_
+
+**💪 Fitness Enthusiast**  
+_Regular gym-goer maintaining physical and mental wellness for peak performance_
+
+**📚 Continuous Learner**  
+_Always exploring new technologies, reading tech blogs, and staying ahead of industry trends_
+
+**🤝 Community Builder**  
+_Active in tech communities, helping fellow developers and sharing knowledge_
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+  
+### 💼 Open for Opportunities
+**Ready to contribute to innovative projects and grow with a dynamic team!**
+
+_"Code is poetry written in logic, and I'm here to craft beautiful solutions."_
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Thank+you+for+visiting+my+profile!;Let's+build+something+amazing+together!;Always+ready+for+new+challenges!)](https://git.io/typing-svg)
+
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
