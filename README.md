@@ -38,13 +38,13 @@
 
 <!-- Awesome Functional Buttons -->
 <p align="center">
-  <a href="https://ashrafulalam.me/" target="_blank">
+  <a href="https://ashrafulalam.me/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-00D4AA?style=for-the-badge&logo=internet-explorer"/>
   </a>
-  <a href="https://linkedin.com/in/ashrafulalam005" target="_blank">
+  <a href="https://linkedin.com/in/ashrafulalam005" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://ashrafulalam.me/resume.pdf" download>
+  <a href="All%20Logo/My%20Resume.pdf" download>
     <img src="https://img.shields.io/badge/Download%20Resume-PDF%20Available-FFB300?style=for-the-badge&logo=adobe-acrobat-reader"/>
   </a>
   <a href="#contact" onclick="document.getElementById('contact').scrollIntoView({behavior: 'smooth'}); return false;">
@@ -108,7 +108,6 @@
 ![trophy](https://github-trophies.vercel.app/?username=ashrafulalamasad&theme=radical&title=Stars,Followers,Commits,Issues,PullRequest,Repositories,Contributions,MultiLanguage,Reviews,Organizations&column=9&row=1)
 
 </div>
-
 
 # 💻 Core Programming Languages
 
