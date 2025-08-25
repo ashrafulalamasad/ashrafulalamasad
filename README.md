@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=430&height=80&lines=🌟+Welcome+to+Ashraful's+Tech+Universe+🌟;🚀+Building+Tomorrow's+Solutions+Today+🚀;💡+Innovation+%7C+Dedication+%7C+Excellence+💡"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=430&height=85&lines=🌟+Welcome+to+Ashraful's+Tech+Universe+🌟;🚀+Building+Tomorrow's+Solutions+Today+🚀;💡+Innovation+%7C+Dedication+%7C+Excellence+💡"/>
 </p>
 
 # 🎯 For better experience, you can use the following links:
@@ -117,7 +117,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/c.png" alt="C" title="C Programming" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/c.png" alt="C" title="C Programming" width="50" height="50"/>
   &nbsp;
   <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/c%2B%2B.png" alt="C++" title="C++" width="60" height="60"/>
   &nbsp;
@@ -165,7 +165,7 @@
 # ⚙️ Backend & Server Technologies
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=E67E22&center=true&vCenter=true&multiline=true&width=400&height=80&lines=Building+robust+backends;APIs+that+power+the+future;Server+side+excellence!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=E67E22&center=true&vCenter=true&multiline=true&width=400&height=85&lines=Building+robust+backends;APIs+that+power+the+future;Server+side+excellence!"/>
 </p>
 
 <div align="center">
@@ -209,7 +209,7 @@
 # 📱 Mobile app Development
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=FF69B4&center=true&vCenter=true&multiline=true&width=400&height=80&lines=Building+mobile+experiences;Apps+in+your+pocket;Mobile+innovation!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=FF69B4&center=true&vCenter=true&multiline=true&width=400&height=85&lines=Building+mobile+experiences;Apps+in+your+pocket;Mobile+innovation!"/>
 </p>
 
 <div align="center">
@@ -490,7 +490,7 @@ Strong communication skills and experience working in collaborative environments
 # 💡 Fun Facts & Interests
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=8E44AD&center=true&vCenter=true&multiline=true&width=400&height=80&lines=Tech+is+life;+But+life+is+more+than+tech!;So+I+do+more+than+code!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=8E44AD&center=true&vCenter=true&multiline=true&width=400&height=85&lines=Tech+is+life;+But+life+is+more+than+tech!;So+I+do+more+than+code!"/>
 </p>
 
 <div align="center">
