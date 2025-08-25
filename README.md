@@ -291,7 +291,7 @@
 </div>
 <br>
 
-# 👨‍💻🏆 Competitive Programming Platforms
+# 👨‍💻 Visit my Competitive Programming Platforms
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=FF4500&center=true&vCenter=true&multiline=true&width=400&height=85&lines=Sharpening+problem+solving;Compete+to+learn+and+grow;Code+for+the+challenge!"/>
