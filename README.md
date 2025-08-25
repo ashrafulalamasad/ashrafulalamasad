@@ -33,8 +33,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2500&pause=500&color=00D4AA&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🌟+Welcome+to+Ashraful's+Tech+Universe+🌟;🚀+Building+Tomorrow's+Solutions+Today+🚀;💡+Innovation+%7C+Dedication+%7C+Excellence+💡"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=430&height=80&lines=🌟+Welcome+to+Ashraful's+Tech+Universe+🌟;🚀+Building+Tomorrow's+Solutions+Today+🚀;💡+Innovation+%7C+Dedication+%7C+Excellence+💡"/>
 </p>
+
+# 🎯 For better experience, you can use the following links:
 
 <!-- Awesome Functional Buttons -->
 <p align="center">
@@ -63,6 +65,8 @@
 
 # 👀 Profile Visitor
 
+<br>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashrafulalamasad&color=blue" alt="Profile Views Count" width="200" height="50">
 </p>
@@ -74,7 +78,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=600&color=F39C12&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Tracking+Progress+and+Achievements;Consistent+Growth+on+GitHub;Analytics+That+Matter!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=1000&color=F39C12&center=true&vCenter=true&multiline=true&width=400&height=85&lines=Tracking+Progress+%26+Achievements;Consistent+Growth+on+GitHub;Analytics+That+Matter!"/>
 </p>
 
 ## 📊 GitHub Stats and Top Languages
@@ -87,7 +91,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=400&lines=Consistent+Contributions;Building+Every+Day;Code+Never+Sleeps!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=true&width=380&height=85&lines=Consistent+Contributions;Building+Every+Day;Code+Never+Sleeps!"/>
 </p>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashrafulalamasad&theme=chartreuse_dark)
@@ -109,7 +113,7 @@
 # 💻 Core Programming Languages
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=3498DB&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Code+is+my+second+language;Solving+problems+one+line+at+a+time;Turning+ideas+into+reality!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=3498DB&center=true&vCenter=true&multiline=true&width=400&height=85&lines=Code+is+my+second+language;Solving+problems+regularly;Turning+ideas+into+reality!"/>
 </p>
 
 <div align="center">
@@ -134,7 +138,7 @@
 # 🎨 Frontend Technologies
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=2ECC71&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Crafting+beautiful+user+interfaces;Modern+frontend+for+modern+apps;Design+meets+function!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=2ECC71&center=true&vCenter=true&multiline=true&width=420&height=85&lines=Crafting+beautiful+user+interfaces;Modern+frontend+for+modern+apps;Design+meets+function!"/>
 </p>
 
 <div align="center">
@@ -161,7 +165,7 @@
 # ⚙️ Backend & Server Technologies
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=E67E22&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+robust+backends;APIs+that+power+the+future;Server+side+excellence!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=E67E22&center=true&vCenter=true&multiline=true&width=400&height=80&lines=Building+robust+backends;APIs+that+power+the+future;Server+side+excellence!"/>
 </p>
 
 <div align="center">
@@ -182,7 +186,7 @@
 # 🗄️ Database Technologies
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=00BFFF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Managing+and+storing+data;Databases+for+every+need;Reliable+data+solutions!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=00BFFF&center=true&vCenter=true&multiline=true&width=400&height=85&lines=Managing+and+storing+data;Databases+for+every+need;Reliable+data+solutions!"/>
 </p>
 
 <div align="center">
@@ -205,7 +209,7 @@
 # 📱 Mobile app Development
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=FF69B4&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+mobile+experiences;Apps+in+your+pocket;Mobile+innovation!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=FF69B4&center=true&vCenter=true&multiline=true&width=400&height=80&lines=Building+mobile+experiences;Apps+in+your+pocket;Mobile+innovation!"/>
 </p>
 
 <div align="center">
@@ -223,7 +227,7 @@
 # ☁️ Cloud & DevOps
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=FFD700&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Deploying+with+confidence;DevOps+for+scalability;Cloud+powered+solutions!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=FFD700&center=true&vCenter=true&multiline=true&width=400&height=85&lines=Deploying+with+confidence;DevOps+for+scalability;Cloud+powered+solutions!"/>
 </p>
 
 <div align="center">
@@ -246,7 +250,7 @@
 # 🚀 Deployment & Hosting Platforms
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=32CD32&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Fast+and+reliable+deployment;Hosting+for+the+modern+web;Your+apps+online!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=32CD32&center=true&vCenter=true&multiline=true&width=400&height=85&lines=Fast+and+reliable+deployment;Hosting+for+the+modern+web;Your+apps+online!"/>
 </p>
 
 <div align="center">
@@ -263,7 +267,7 @@
 # 🛠️ Development Environment & Tools
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=8A2BE2&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Tools+are+my+superpower;Automating+the+boring+stuff;Building+with+creativity!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=8A2BE2&center=true&vCenter=true&multiline=true&width=400&height=85&lines=Tools+are+my+superpower;Automating+the+boring+stuff;Building+with+creativity!"/>
 </p>
 
 <div align="center">
@@ -290,7 +294,7 @@
 # 👨‍💻🏆 Competitive Programming Platforms
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=FF4500&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Sharpening+problem+solving;Compete+to+learn+and+grow;Code+for+the+challenge!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=FF4500&center=true&vCenter=true&multiline=true&width=400&height=85&lines=Sharpening+problem+solving;Compete+to+learn+and+grow;Code+for+the+challenge!"/>
 </p>
 
 <div align="center">
@@ -386,7 +390,7 @@
 # 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=1000&color=00CED1&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Let's+Connect+%26+Collaborate;Here+Is+My+Social+Media+%26+Contact+Links!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3200&pause=1000&color=00CED1&center=true&vCenter=true&multiline=true&width=430&height=85&lines=Let's+Connect+and+Collaborate!;Find+Me+on+Social+Media+and+Email;Open+to+Work+and+Opportunities"/>
 </p>
 
 <br> 
@@ -486,7 +490,7 @@ Strong communication skills and experience working in collaborative environments
 # 💡 Fun Facts & Interests
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=8E44AD&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Tech+is+life%2C+but+life+is+more+than+tech!;Beyond+coding%3A+photography%2C+gaming%2C+adventure;Learning+and+community!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=700&color=8E44AD&center=true&vCenter=true&multiline=true&width=400&height=80&lines=Tech+is+life;+But+life+is+more+than+tech!;So+I+do+more+than+code!"/>
 </p>
 
 <div align="center">
@@ -526,7 +530,7 @@ _"Code is poetry written in logic, and I'm here to craft beautiful solutions."_
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Thank+you+for+visiting+my+profile!;Let's+build+something+amazing+together!;Always+ready+for+new+challenges!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=420&height=80&lines=Thank+you+for+visiting+my+profile!;Let's+build+something+amazing+together!;Always+ready+for+new+challenges!)](https://git.io/typing-svg)
 
 </div>
 
