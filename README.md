@@ -119,19 +119,19 @@
 <div align="center">
   <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/c.png" alt="C" title="C Programming" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/c%2B%2B.png" alt="C++" title="C++" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/c%2B%2B.png" alt="C++" title="C++" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/java.png" alt="Java" title="Java" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/java.png" alt="Java" title="Java" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/python.png" alt="Python" title="Python" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/python.png" alt="Python" title="Python" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/js.png" alt="JavaScript" title="JavaScript" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/js.png" alt="JavaScript" title="JavaScript" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/ts.png" alt="TypeScript" title="TypeScript" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/ts.png" alt="TypeScript" title="TypeScript" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/kotlin.png" alt="Kotlin" title="Kotlin" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/kotlin.png" alt="Kotlin" title="Kotlin" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/php.png" alt="PHP" title="PHP" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/php.png" alt="PHP" title="PHP" width="50" height="50"/>
 </div>
 <br>
 
@@ -142,23 +142,23 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/html5.png" alt="HTML5" title="HTML5" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/html5.png" alt="HTML5" title="HTML5" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/css3.png" alt="CSS3" title="CSS3" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/css3.png" alt="CSS3" title="CSS3" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/react.png" alt="React" title="React" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/react.png" alt="React" title="React" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/nextJs.png" alt="Next.js" title="Next.js" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/nextJs.png" alt="Next.js" title="Next.js" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/vite.png" alt="Vite" title="Vite" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/vite.png" alt="Vite" title="Vite" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/bootstrap.png" alt="Bootstrap" title="Bootstrap" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/bootstrap.png" alt="Bootstrap" title="Bootstrap" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/tailwind.png" alt="Tailwind CSS" title="Tailwind CSS" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/tailwind.png" alt="Tailwind CSS" title="Tailwind CSS" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/materialUI.png" alt="Material-UI" title="Material-UI" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/materialUI.png" alt="Material-UI" title="Material-UI" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/webpack.png" alt="Webpack" title="Webpack" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/webpack.png" alt="Webpack" title="Webpack" width="50" height="50"/>
 </div>
 <br>
 
@@ -169,17 +169,17 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/nodeJs2.png" alt="Node.js" title="Node.js" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/nodeJs2.png" alt="Node.js" title="Node.js" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/expressJs2.png" alt="Express.js" title="Express.js" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/expressJs2.png" alt="Express.js" title="Express.js" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/laravel.png" alt="Laravel" title="Laravel" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/laravel.png" alt="Laravel" title="Laravel" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/graphQL.png" alt="GraphQL" title="GraphQL" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/graphQL.png" alt="GraphQL" title="GraphQL" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/socket2.png" alt="Socket.io" title="Socket.io" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/socket2.png" alt="Socket.io" title="Socket.io" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/npm.png" alt="NPM" title="NPM" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/npm.png" alt="NPM" title="NPM" width="50" height="50"/>
 </div>
 <br>
 
@@ -190,19 +190,19 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/mongodb2.png" alt="MongoDB" title="MongoDB" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/mongodb2.png" alt="MongoDB" title="MongoDB" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/mysql.png" alt="MySQL" title="MySQL" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/mysql.png" alt="MySQL" title="MySQL" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/postgresql.png" alt="PostgreSQL" title="PostgreSQL" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/postgresql.png" alt="PostgreSQL" title="PostgreSQL" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/sqlite.png" alt="SQLite" title="SQLite" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/sqlite.png" alt="SQLite" title="SQLite" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/oracle.png" alt="Oracle" title="Oracle Database" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/oracle.png" alt="Oracle" title="Oracle Database" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/mongoose.png" alt="Mongoose" title="Mongoose ODM" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/mongoose.png" alt="Mongoose" title="Mongoose ODM" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/prisma.png" alt="Prisma" title="Prisma ORM" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/prisma.png" alt="Prisma" title="Prisma ORM" width="50" height="50"/>
 </div>
 <br>
 
@@ -213,14 +213,14 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/reactNative2.png" alt="React Native" title="React Native" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/reactNative2.png" alt="React Native" title="React Native" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/flutter.png" alt="Flutter" title="Flutter" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/flutter.png" alt="Flutter" title="Flutter" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/expo2.png" alt="Expo" title="Expo" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/expo2.png" alt="Expo" title="Expo" width="50" height="50"/>
   &nbsp;
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/android.png" alt="Android" title="Android" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/android.png" alt="Android" title="Android" width="50" height="50"/>
 </div>
 <br>
 
@@ -231,19 +231,19 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/aws2.png" alt="AWS" title="Amazon Web Services" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/aws2.png" alt="AWS" title="Amazon Web Services" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/azure.png" alt="Azure" title="Microsoft Azure" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/azure.png" alt="Azure" title="Microsoft Azure" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/googlecloud.png" alt="Google Cloud" title="Google Cloud Platform" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/googlecloud.png" alt="Google Cloud" title="Google Cloud Platform" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/docker.png" alt="Docker" title="Docker" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/docker.png" alt="Docker" title="Docker" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/kubernetes.png" alt="Kubernetes" title="Kubernetes" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/kubernetes.png" alt="Kubernetes" title="Kubernetes" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/firebase.png" alt="Firebase" title="Firebase" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/firebase.png" alt="Firebase" title="Firebase" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/supabase.png" alt="Supabase" title="Supabase" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/supabase.png" alt="Supabase" title="Supabase" width="50" height="50"/>
 </div>
 <br>
 
@@ -254,13 +254,13 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/vercel2.png" alt="Vercel" title="Vercel" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/vercel2.png" alt="Vercel" title="Vercel" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/netlify.png" alt="Netlify" title="Netlify" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/netlify.png" alt="Netlify" title="Netlify" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/railway2.png" alt="Railway" title="Railway" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/railway2.png" alt="Railway" title="Railway" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/render2.png" alt="Render" title="Render" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/render2.png" alt="Render" title="Render" width="50" height="50"/>
 </div>
 <br>
 
@@ -271,23 +271,23 @@
 </p>
 
 <div align="center">
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/vsCode.png" alt="VS Code" title="Visual Studio Code" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/vsCode.png" alt="VS Code" title="Visual Studio Code" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/vs.png" alt="Visual Studio" title="Visual Studio" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/vs.png" alt="Visual Studio" title="Visual Studio" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/intellijidea.png" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/intellijidea.png" alt="IntelliJ IDEA" title="IntelliJ IDEA" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/pycharm.png" alt="PyCharm" title="PyCharm" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/pycharm.png" alt="PyCharm" title="PyCharm" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/aStudio.png" alt="Android Studio" title="Android Studio" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/aStudio.png" alt="Android Studio" title="Android Studio" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/git.png" alt="Git" title="Git Version Control" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/git.png" alt="Git" title="Git Version Control" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/github2.png" alt="GitHub" title="GitHub" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/github2.png" alt="GitHub" title="GitHub" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/copilot2.png" alt="GitHub Copilot" title="GitHub Copilot AI" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/copilot2.png" alt="GitHub Copilot" title="GitHub Copilot AI" width="50" height="50"/>
   &nbsp;
-  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/figma.png" alt="Figma" title="Figma Design Tool" width="60" height="60"/>
+  <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Coding%20tools/figma.png" alt="Figma" title="Figma Design Tool" width="50" height="50"/>
 </div>
 <br>
 
@@ -300,32 +300,32 @@
 <div align="center">
   <a href="https://judge.beecrowd.com/en/profile/1071784">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/cp/beecrowd.png" 
-    width="60" height="60" alt="BeeCrowd" title="BeeCrowd Profile">
+    width="50" height="50" alt="BeeCrowd" title="BeeCrowd Profile">
   </a>
   &nbsp;
   <a href="https://codeforces.com/profile/ashrafulalamasad">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/cp/codeforces.png" 
-    width="60" height="60" alt="CodeForces" title="CodeForces Profile">
+    width="50" height="50" alt="CodeForces" title="CodeForces Profile">
   </a>
   &nbsp;
   <a href="https://leetcode.com/u/ashrafulalam005/">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/cp/leetcode.png" 
-    width="60" height="60" alt="LeetCode" title="LeetCode Profile">
+    width="50" height="50" alt="LeetCode" title="LeetCode Profile">
   </a>
   &nbsp;
   <a href="https://www.codechef.com/users/ashrafulalamyt">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/cp/codechef.png" 
-    width="60" height="60" alt="CodeChef" title="CodeChef Profile">
+    width="50" height="50" alt="CodeChef" title="CodeChef Profile">
   </a>
   &nbsp;
   <a href="https://www.hackerrank.com/profile/ashrafulalam005">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/cp/hackerrank.png" 
-    width="60" height="60" alt="HackerRank" title="HackerRank Profile">
+    width="50" height="50" alt="HackerRank" title="HackerRank Profile">
   </a>
   &nbsp;
   <a href="https://atcoder.jp/users/ashrafulalam005">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/cp/atcoder2.png" 
-    width="60" height="60" alt="AtCoder" title="AtCoder Profile">
+    width="50" height="50" alt="AtCoder" title="AtCoder Profile">
   </a>
 </div>
 <br>
@@ -397,52 +397,52 @@
 <div align="center">
   <a href="https://ashrafulalam.me/">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/web2.png" 
-    width="60" height="60" target="_blank" alt="Portfolio Website" title="Visit My Portfolio">
+    width="50" height="50" target="_blank" alt="Portfolio Website" title="Visit My Portfolio">
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/ashrafulalam005">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/linkedin.png" 
-    width="60" height="60" target="_blank" alt="LinkedIn" title="Connect on LinkedIn">
+    width="50" height="50" target="_blank" alt="LinkedIn" title="Connect on LinkedIn">
   </a>
   &nbsp;
   <a href="mailto:ashrafulalamyt@gmail.com">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/mail.png" 
-    width="60" height="60" target="_blank" alt="Email" title="Send Email">
+    width="50" height="50" target="_blank" alt="Email" title="Send Email">
   </a>
   &nbsp;
   <a href="https://www.facebook.com/ashrafulalam005">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/facebook.png" 
-    width="60" height="60" target="_blank" alt="Facebook" title="Follow on Facebook Profile">
+    width="50" height="50" target="_blank" alt="Facebook" title="Follow on Facebook Profile">
   </a>
   &nbsp;
   <a href="https://instagram.com/ashrafulalam005">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/instagram.png" 
-    width="60" height="60" target="_blank" alt="Instagram" title="Follow on Instagram">
+    width="50" height="50" target="_blank" alt="Instagram" title="Follow on Instagram">
   </a>
   &nbsp;
   <a href="https://x.com/ashrafulalam005">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/x.png" 
-    width="60" height="60" target="_blank" alt="X (Twitter)" title="Follow on X">
+    width="50" height="50" target="_blank" alt="X (Twitter)" title="Follow on X">
   </a>
   &nbsp;
   <a href="https://www.threads.net/@ashrafulalam005">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/threads.png" 
-    width="60" height="60" target="_blank" alt="Threads" title="Follow on Threads">
+    width="50" height="50" target="_blank" alt="Threads" title="Follow on Threads">
   </a>
   &nbsp;
   <a href="https://t.me/ashrafulalam005">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/telegram.png" 
-    width="60" height="60" target="_blank" alt="Telegram" title="Message on Telegram">
+    width="50" height="50" target="_blank" alt="Telegram" title="Message on Telegram">
   </a>
   &nbsp;
   <a href="https://hikmah.net/@ashrafulalam005">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/hikmah.png" 
-    width="60" height="60" target="_blank" alt="Hikmah" title="Follow on Hikmah">
+    width="50" height="50" target="_blank" alt="Hikmah" title="Follow on Hikmah">
   </a>
   &nbsp;
   <a href="https://youtube.com/@ashrafulalam005">
     <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/All%20Logo/Social%20Icon/youtube.png" 
-    width="60" height="60" target="_blank" alt="YouTube" title="Subscribe on YouTube">
+    width="50" height="50" target="_blank" alt="YouTube" title="Subscribe on YouTube">
   </a>
 </div>
 
