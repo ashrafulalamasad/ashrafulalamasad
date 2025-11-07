@@ -8,7 +8,7 @@
 </head>
 <body>
     <div>
-        <img src="https://github.com/ashrafulalamasad/ashrafulalamasad/blob/main/necesarry%20img/bannergif.gif" alt="Banner GIF" style="max-width: 100%; height: auto;">
+        <img src="necesarry img/github-profile-gif.gif" alt="Banner GIF" style="max-width: 100%; height: auto;">
     </div>
 </body>
 </html>
