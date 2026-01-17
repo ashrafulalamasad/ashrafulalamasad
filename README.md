@@ -1,6 +1,6 @@
 <br> <br>
 
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -11,7 +11,9 @@
         <img src="necesarry img/git-profile-card.gif" alt="Banner GIF" style="max-width: 100%; height: auto;">
     </div>
 </body>
-</html>
+</html> -->
+
+<img src="assets/header/banner.png" alt="Banner image" >
 
 <br> <br>
 
