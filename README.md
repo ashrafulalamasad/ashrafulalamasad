@@ -11,10 +11,10 @@
   <h3>🚀 Full-Stack Developer | 🏆 Competitive Programmer | 🎓 CSE Student at IIUC</h3> <br>
 
   <p>
-    <a href="./assets/Ashraful_Alam_Full_Stack_Developer_Resume.pdf" target="_blank" title="Download Resume"><img src="./assets/tech/resume.png" width="70" alt="Resume"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://linkedin.com/in/ashrafulalam005" target="_blank" title="LinkedIn"><img src="./assets/social/linkedin.webp" width="70" alt="LinkedIn"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://ashraf-hub.netlify.app/" target="_blank" title="Portfolio Website"><img src="./assets/social/web2.webp" width="70" alt="Portfolio"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:alamasad005@gmail.com" target="_blank" title="Email Contact"><img src="./assets/social/mail.webp" width="70" alt="Email"></a>
+    <a href="./assets/Ashraful_Alam_Full_Stack_Developer_Resume.pdf" target="_blank" title="Download Resume"><img src="./assets/tech/resume.png" width="50" alt="Resume"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://linkedin.com/in/ashrafulalam005" target="_blank" title="LinkedIn"><img src="./assets/social/linkedin.webp" width="50" alt="LinkedIn"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://ashraf-hub.netlify.app/" target="_blank" title="Portfolio Website"><img src="./assets/social/web2.webp" width="50" alt="Portfolio"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="mailto:alamasad005@gmail.com" target="_blank" title="Email Contact"><img src="./assets/social/mail.webp" width="50" alt="Email"></a>
   </p>
 
 </div>
@@ -147,7 +147,7 @@ A full-featured **E-commerce platform** built with the PERN stack. Users can bro
   <img src="./assets/tech/react.webp" width="35" title="React"/> &nbsp;&nbsp;&nbsp;
   <img src="./assets/tech/nodeJs2.webp" width="35" title="Node.js"/> &nbsp;&nbsp;&nbsp;
   <img src="./assets/tech/appwrite.webp" width="35" title="Appwrite"/> &nbsp;&nbsp;&nbsp;
-  <img src="./assets/tech/mongodb.webp" width="35" title="MongoDB"/> &nbsp;&nbsp;&nbsp;
+  <img src="./assets/tech/mongodb2.webp" width="35" title="MongoDB"/> &nbsp;&nbsp;&nbsp;
   <img src="./assets/tech/tailwind.webp" width="35" title="Tailwind CSS"/>
 </p>
 
@@ -183,17 +183,17 @@ A real-time blood donation platform designed for emergencies. Features include *
 ## 🏆 Competitive Programming
 
 <div align="center">
-  <a href="https://codeforces.com/profile/asad_005" target="_blank" title="Codeforces">
+  <a href="https://codeforces.com/profile/ashrafulalamasad" target="_blank" title="Codeforces">
     <img src="./assets/cp/codeforces.webp" width="70">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/asad_005" target="_blank" title="CodeChef">
+  <a href="https://www.codechef.com/users/ashrafulalamyt" target="_blank" title="CodeChef">
     <img src="./assets/cp/codechef.webp" width="70">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/asad_005/" target="_blank" title="LeetCode">
+  <a href="https://leetcode.com/u/ashrafulalam005/" target="_blank" title="LeetCode">
     <img src="./assets/cp/leetcode.webp" width="70">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://atcoder.jp/users/ashrafulalam005" target="_blank" title="AtCoder">
-    <img src="./assets/cp/atcoder.webp" width="70">
+    <img src="./assets/cp/atcoder2.webp" width="70">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/ashrafulalam005" target="_blank" title="HackerRank">
     <img src="./assets/cp/hackerrank.webp" width="70">
@@ -209,7 +209,7 @@ A real-time blood donation platform designed for emergencies. Features include *
 
 <div align="center">
   <a href="https://linkedin.com/in/ashrafulalam005"><img src="./assets/social/linkedin.webp" width="60" alt="LinkedIn"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ashraful.tech/"><img src="./assets/social/web.webp" width="60" alt="Portfolio"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ashraful.tech/"><img src="./assets/social/web2.webp" width="60" alt="Portfolio"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:alamasad005@gmail.com"><img src="./assets/social/mail.webp" width="60" alt="Email"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://twitter.com/ashrafulalam005"><img src="./assets/social/x.webp" width="60" alt="X (Twitter)"/></a>
 </div>
