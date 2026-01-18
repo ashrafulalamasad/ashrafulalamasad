@@ -53,7 +53,7 @@
   <img src="./assets/tech/vite.webp" alt="Vite" width="50" title="Vite"/> &nbsp;&nbsp;&nbsp;
   <img src="./assets/tech/html5.webp" alt="HTML5" width="50" title="HTML5"/> &nbsp;&nbsp;&nbsp;
   <img src="./assets/tech/css3.webp" alt="CSS3" width="50" title="CSS3"/> &nbsp;&nbsp;&nbsp;
-  <img src="./assets/tech/shadcn.png" alt="CSS3" width="50" title="Shadcn UI"/> &nbsp;&nbsp;&nbsp;
+  <img src="./assets/tech/shadcn-ui.png" alt="CSS3" width="50" title="Shadcn UI"/> &nbsp;&nbsp;&nbsp;
 </div>
 
 ### ⚙️ Backend & Database
@@ -188,19 +188,19 @@ A real-time blood donation platform designed for emergencies. Features include *
 
 <div align="center">
   <a href="https://codeforces.com/profile/ashrafulalamasad" target="_blank" title="Codeforces">
-    <img src="./assets/cp/codeforces.webp" width="50">
+    <img src="./assets/cp/codeforces.svg" width="50">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/ashrafulalamyt" target="_blank" title="CodeChef">
-    <img src="./assets/cp/codechef.webp" width="50">
+    <img src="./assets/cp/codechef.png" width="50">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/ashrafulalam005/" target="_blank" title="LeetCode">
-    <img src="./assets/cp/leetcode.webp" width="50">
+    <img src="./assets/cp/leetcode.png" width="50">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://atcoder.jp/users/ashrafulalam005" target="_blank" title="AtCoder">
-    <img src="./assets/cp/atcoder2.webp" width="50">
+    <img src="./assets/cp/atcoder.webp" width="50">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/ashrafulalam005" target="_blank" title="HackerRank">
-    <img src="./assets/cp/hackerrank.webp" width="50">
+    <img src="./assets/cp/hackerrank.svg" width="50">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://judge.beecrowd.com/en/profile/1071784" target="_blank" title="Beecrowd">
     <img src="./assets/cp/beecrowd.webp" width="50">
