@@ -14,7 +14,7 @@
     <a href="./assets/Ashraful_Alam_Full_Stack_Developer_Resume.pdf" target="_blank" title="Download Resume"><img src="./assets/tech/resume.png" width="50" alt="Resume"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://linkedin.com/in/ashrafulalam005" target="_blank" title="LinkedIn"><img src="./assets/social/linkedin.webp" width="50" alt="LinkedIn"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://ashraf-hub.netlify.app/" target="_blank" title="Portfolio Website"><img src="./assets/social/web2.webp" width="50" alt="Portfolio"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:alamasad005@gmail.com" target="_blank" title="Email Contact"><img src="./assets/social/mail.webp" width="50" alt="Email"></a>
+    <a href="mailto:ashrafulalamyt@gmail.com" target="_blank" title="Email Contact"><img src="./assets/social/mail.webp" width="50" alt="Email"></a>
   </p>
 
 </div>
@@ -135,7 +135,7 @@ A full-featured **E-commerce platform** built with the PERN stack. Users can bro
   </a>
   &nbsp;
   <a href="https://ashrafsfashion.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-00D4AA?style=for-the-badge&logo=vercel&logoColor=white" height="28">
+    <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=netlify&logoColor=white" height="28">
   </a>
 </p>
 
@@ -145,10 +145,12 @@ A full-featured **E-commerce platform** built with the PERN stack. Users can bro
 
 <p>
   <img src="./assets/tech/react.webp" width="35" title="React"/> &nbsp;&nbsp;&nbsp;
+  <img src="./assets/tech/expressJs2.webp" width="35" title="Express.js"/> &nbsp;&nbsp;&nbsp;
   <img src="./assets/tech/nodeJs2.webp" width="35" title="Node.js"/> &nbsp;&nbsp;&nbsp;
   <img src="./assets/tech/appwrite.webp" width="35" title="Appwrite"/> &nbsp;&nbsp;&nbsp;
   <img src="./assets/tech/mongodb2.webp" width="35" title="MongoDB"/> &nbsp;&nbsp;&nbsp;
   <img src="./assets/tech/tailwind.webp" width="35" title="Tailwind CSS"/>
+  <img src="./assets/tech/mongoose.webp" width="35" title="Mongoose ORM"/> &nbsp;&nbsp;&nbsp;
 </p>
 
 A real-time blood donation platform designed for emergencies. Features include **Location-based donor discovery**, instant notifications, and secure authentication via **Appwrite**.
@@ -158,8 +160,8 @@ A real-time blood donation platform designed for emergencies. Features include *
     <img src="https://img.shields.io/badge/Source_Code-100000?style=for-the-badge&logo=github&logoColor=white" height="28">
   </a>
   &nbsp;
-  <a href="https://bloodsync.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=netlify&logoColor=white" height="28">
+  <a href="https://blood-sync.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Demo-00D4AA?style=for-the-badge&logo=vercel&logoColor=white" height="28">
   </a>
 </p>
 
@@ -174,7 +176,9 @@ A real-time blood donation platform designed for emergencies. Features include *
 
 ## 🔥 Streak Statistics
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashrafulalamasad&theme=chartreuse-dark&card_width=495&card_height=195)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashrafulalamasad&theme=chartreuse-dark&card_width=495&card_height=195)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ashrafulalamasad&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
@@ -184,22 +188,22 @@ A real-time blood donation platform designed for emergencies. Features include *
 
 <div align="center">
   <a href="https://codeforces.com/profile/ashrafulalamasad" target="_blank" title="Codeforces">
-    <img src="./assets/cp/codeforces.webp" width="70">
+    <img src="./assets/cp/codeforces.webp" width="50">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/ashrafulalamyt" target="_blank" title="CodeChef">
-    <img src="./assets/cp/codechef.webp" width="70">
+    <img src="./assets/cp/codechef.webp" width="50">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/ashrafulalam005/" target="_blank" title="LeetCode">
-    <img src="./assets/cp/leetcode.webp" width="70">
+    <img src="./assets/cp/leetcode.webp" width="50">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://atcoder.jp/users/ashrafulalam005" target="_blank" title="AtCoder">
-    <img src="./assets/cp/atcoder2.webp" width="70">
+    <img src="./assets/cp/atcoder2.webp" width="50">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/ashrafulalam005" target="_blank" title="HackerRank">
-    <img src="./assets/cp/hackerrank.webp" width="70">
+    <img src="./assets/cp/hackerrank.webp" width="50">
   </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://judge.beecrowd.com/en/profile/1071784" target="_blank" title="Beecrowd">
-    <img src="./assets/cp/beecrowd.webp" width="70">
+    <img src="./assets/cp/beecrowd.webp" width="50">
   </a>
 </div>
 
@@ -208,10 +212,10 @@ A real-time blood donation platform designed for emergencies. Features include *
 ## 🌐 Connect With Me
 
 <div align="center">
-  <a href="https://linkedin.com/in/ashrafulalam005"><img src="./assets/social/linkedin.webp" width="60" alt="LinkedIn"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://ashraful.tech/"><img src="./assets/social/web2.webp" width="60" alt="Portfolio"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:alamasad005@gmail.com"><img src="./assets/social/mail.webp" width="60" alt="Email"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/ashrafulalam005"><img src="./assets/social/x.webp" width="60" alt="X (Twitter)"/></a>
+  <a href="https://linkedin.com/in/ashrafulalam005"><img src="./assets/social/linkedin.webp" width="55" alt="LinkedIn"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://ashraful.tech/"><img src="./assets/social/web2.webp" width="55" alt="Portfolio"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ashrafulalamyt@gmail.com"><img src="./assets/social/mail.webp" width="55" alt="Email"/></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/ashrafulalam005"><img src="./assets/social/x.webp" width="55" alt="X (Twitter)"/></a>
 </div>
 
 ---
@@ -230,7 +234,7 @@ A real-time blood donation platform designed for emergencies. Features include *
     <img src="https://komarev.com/ghpvc/?username=ashrafulalamasad&color=blue" alt="Profile Views Count" width="200" height="50">
   </p>
   
-  <p style="font-size: 14px; font-style: italic; color: #00D4AA;">
+  <p>
     "Building tomorrow's solutions with today's code"
   </p>
 </div>
